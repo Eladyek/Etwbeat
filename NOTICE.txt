@@ -1,0 +1,5 @@
+etwbeat
+Copyright {year} Elad Yekutiel
+
+This product includes software developed by The Apache Software
+Foundation (http://www.apache.org/).
